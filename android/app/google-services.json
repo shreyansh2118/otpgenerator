@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "657461568389",
+    "project_id": "phonenumber-b0efe",
+    "storage_bucket": "phonenumber-b0efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657461568389:android:b90acbee3b0d7647769aec",
+        "android_client_info": {
+          "package_name": "com.example.otpgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657461568389-trfa7g9m9pl1opu516muhqa1mvslinfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otpgenerator",
+            "certificate_hash": "c4da08c00eafefd40b4b81a241a1e2236e0eb18e"
+          }
+        },
+        {
+          "client_id": "657461568389-ifnd9s37m0f36l4n2fvoam61jmjsva2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0o4xje7mJPzoEetjVDMO8jiMogXDlyhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657461568389-ifnd9s37m0f36l4n2fvoam61jmjsva2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657461568389:android:ccf4c5233e2df731769aec",
+        "android_client_info": {
+          "package_name": "com.shreyansh.otpgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657461568389-ifnd9s37m0f36l4n2fvoam61jmjsva2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0o4xje7mJPzoEetjVDMO8jiMogXDlyhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657461568389-ifnd9s37m0f36l4n2fvoam61jmjsva2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
